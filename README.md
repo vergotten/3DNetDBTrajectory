@@ -1,4 +1,4 @@
-## NeuralNet3DObjectTrajectory
+## 3DNetDBTrajectory
 
 ## Description
 This project aims to address the problem of object recognition, classification, annotation, and trajectory prediction based on images, including those obtained by 3D scanning systems. The solution involves creating a knowledge base that combines neural network solutions, a virtual prototyping system for creating physically correct images and depth maps of scenes, and automatic labeling tools for synthesized data. The project leverages various Python clients, Docker for containerization, Airflow for workflow management, and Kubernetes for orchestration.
